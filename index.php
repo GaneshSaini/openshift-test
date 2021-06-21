@@ -1,1 +1,1 @@
-Welcome to the redhat openshift demo.. 
+Welcome to the redhat OpenShift  Container Platform!! 
